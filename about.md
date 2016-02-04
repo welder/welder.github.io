@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Out and About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Moving is stressful.  Moving your house, moving your family, moving your ideas.  All kinds of moves.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Moving yourself to work and back every day is stressful.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Travel is voluntary movement -- and when that happens, it is usually jarring enough for me that I'll want to write about it here.  *I like it,* but goodness me do I want to write about it here.
