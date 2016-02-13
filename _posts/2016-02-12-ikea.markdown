@@ -4,24 +4,29 @@ title:  "IKEA"
 date:   2016-02-12 21:07:00 -0500
 categories: organization
 ---
-I live in the city of Clarksburg, West Virginia.  Population [16,578](https://en.wikipedia.org/wiki/Clarksburg,_West_Virginia).  Some advantages of living in a small-ish town include
+I live in the city of Clarksburg, West Virginia.  Population [16,578](https://en.wikipedia.org/wiki/Clarksburg,_West_Virginia).
 
--enjoying a quiet home life
--little to no noise pollution
--low cost of living
--a relaxing and comfortable existence nestled in the mountains
+Some advantages of living in a small-ish town include:
 
-*mood: refreshing and free*
++   enjoying a quiet home life
 
-*currently channeling: John Muir*
++   little to no noise pollution
 
-Disadvantages include
++   low cost of living
 
--zero [IKEA stores](https://www.youtube.com/watch?v=-YMcqNc4nSY#t=9m23s)
++   a relaxing and comfortable existence nestled in the mountains
 
-*mood: what kind of backwoods podunk town is this suburban hellscape that cannot sell me cheap plasterboard shelving*
+mood: *refreshing and free*
 
-*currently channeling: Gilbert Gottfried*
+currently channeling: John Muir
+
+However, the disadvantages include:
+
++   zero [IKEA stores](https://www.youtube.com/watch?v=-YMcqNc4nSY#t=9m23s)
+
+mood: *what kind of backwoods podunk town is this suburban hellscape that cannot sell me cheap plasterboard shelving*
+
+currently channeling: Gilbert Gottfried
 
 Pittsburgh is two hours north.  Shortly after we moved here, my wife and I drove there to pick up and drop of a couple people from the airport.  As a result, before we really got the chance to check out Squirrel Hill and Shadyside and all the hip young places with sushi bars and coffee houses, we became quickly familiar with getting to and from the airport.  Turns out, you drive past the IKEA to get to the airport.  This leads to some predictable conversations on the way home.
 
